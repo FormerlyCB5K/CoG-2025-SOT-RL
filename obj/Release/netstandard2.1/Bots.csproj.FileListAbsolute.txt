@@ -1,0 +1,14 @@
+C:\Users\dockhorn\Documents\Git Repositories\ScriptsOfTribute-Core-master\Bots\bin\Release\netstandard2.1\cards.json
+C:\Users\dockhorn\Documents\Git Repositories\ScriptsOfTribute-Core-master\Bots\bin\Release\netstandard2.1\Bots.deps.json
+C:\Users\dockhorn\Documents\Git Repositories\ScriptsOfTribute-Core-master\Bots\bin\Release\netstandard2.1\Bots.dll
+C:\Users\dockhorn\Documents\Git Repositories\ScriptsOfTribute-Core-master\Bots\bin\Release\netstandard2.1\Bots.pdb
+C:\Users\dockhorn\Documents\Git Repositories\ScriptsOfTribute-Core-master\Bots\bin\Release\netstandard2.1\TalesOfTribute.dll
+C:\Users\dockhorn\Documents\Git Repositories\ScriptsOfTribute-Core-master\Bots\bin\Release\netstandard2.1\TalesOfTribute.pdb
+C:\Users\dockhorn\Documents\Git Repositories\ScriptsOfTribute-Core-master\Bots\obj\Release\netstandard2.1\Bots.csproj.AssemblyReference.cache
+C:\Users\dockhorn\Documents\Git Repositories\ScriptsOfTribute-Core-master\Bots\obj\Release\netstandard2.1\Bots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dockhorn\Documents\Git Repositories\ScriptsOfTribute-Core-master\Bots\obj\Release\netstandard2.1\Bots.AssemblyInfoInputs.cache
+C:\Users\dockhorn\Documents\Git Repositories\ScriptsOfTribute-Core-master\Bots\obj\Release\netstandard2.1\Bots.AssemblyInfo.cs
+C:\Users\dockhorn\Documents\Git Repositories\ScriptsOfTribute-Core-master\Bots\obj\Release\netstandard2.1\Bots.csproj.CoreCompileInputs.cache
+C:\Users\dockhorn\Documents\Git Repositories\ScriptsOfTribute-Core-master\Bots\obj\Release\netstandard2.1\Bots.csproj.Up2Date
+C:\Users\dockhorn\Documents\Git Repositories\ScriptsOfTribute-Core-master\Bots\obj\Release\netstandard2.1\Bots.dll
+C:\Users\dockhorn\Documents\Git Repositories\ScriptsOfTribute-Core-master\Bots\obj\Release\netstandard2.1\Bots.pdb

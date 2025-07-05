@@ -1,0 +1,14 @@
+C:\Users\lashm\OneDrive\Desktop\SoT_RL_WORKING\ScriptsOfTribute-Core-master\Bots\bin\x64\Release\netstandard2.1\cards.json
+C:\Users\lashm\OneDrive\Desktop\SoT_RL_WORKING\ScriptsOfTribute-Core-master\Bots\bin\x64\Release\netstandard2.1\Bots.deps.json
+C:\Users\lashm\OneDrive\Desktop\SoT_RL_WORKING\ScriptsOfTribute-Core-master\Bots\bin\x64\Release\netstandard2.1\Bots.dll
+C:\Users\lashm\OneDrive\Desktop\SoT_RL_WORKING\ScriptsOfTribute-Core-master\Bots\bin\x64\Release\netstandard2.1\Bots.pdb
+C:\Users\lashm\OneDrive\Desktop\SoT_RL_WORKING\ScriptsOfTribute-Core-master\Bots\bin\x64\Release\netstandard2.1\TalesOfTribute.dll
+C:\Users\lashm\OneDrive\Desktop\SoT_RL_WORKING\ScriptsOfTribute-Core-master\Bots\bin\x64\Release\netstandard2.1\TalesOfTribute.pdb
+C:\Users\lashm\OneDrive\Desktop\SoT_RL_WORKING\ScriptsOfTribute-Core-master\Bots\obj\x64\Release\netstandard2.1\Bots.csproj.AssemblyReference.cache
+C:\Users\lashm\OneDrive\Desktop\SoT_RL_WORKING\ScriptsOfTribute-Core-master\Bots\obj\x64\Release\netstandard2.1\Bots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lashm\OneDrive\Desktop\SoT_RL_WORKING\ScriptsOfTribute-Core-master\Bots\obj\x64\Release\netstandard2.1\Bots.AssemblyInfoInputs.cache
+C:\Users\lashm\OneDrive\Desktop\SoT_RL_WORKING\ScriptsOfTribute-Core-master\Bots\obj\x64\Release\netstandard2.1\Bots.AssemblyInfo.cs
+C:\Users\lashm\OneDrive\Desktop\SoT_RL_WORKING\ScriptsOfTribute-Core-master\Bots\obj\x64\Release\netstandard2.1\Bots.csproj.CoreCompileInputs.cache
+C:\Users\lashm\OneDrive\Desktop\SoT_RL_WORKING\ScriptsOfTribute-Core-master\Bots\obj\x64\Release\netstandard2.1\Bots.csproj.Up2Date
+C:\Users\lashm\OneDrive\Desktop\SoT_RL_WORKING\ScriptsOfTribute-Core-master\Bots\obj\x64\Release\netstandard2.1\Bots.dll
+C:\Users\lashm\OneDrive\Desktop\SoT_RL_WORKING\ScriptsOfTribute-Core-master\Bots\obj\x64\Release\netstandard2.1\Bots.pdb
